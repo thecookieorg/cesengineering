@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Marko Manojlovic -- Web Developer -- TheCookieOrg
+	Alexandar Atza Visnjic -- UI Designer
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Twitter Bootstrap
