@@ -20,11 +20,15 @@
 					<a href="contact-dubai.php"><img src="img/contact/dubai-bullet-contact.png"></a>
 				</div>
 				<div class="span3 margin_main_container">
-					<img src="img/contact/dubai-right-side.png">
-					<a href="mailto:info@cesgroup.ae"><img src="img/contact/email-dubai.png"></a>
-					<a href="http://cesgroup.ae"><img src="img/contact/cesgroup-ae.png"></a>
-					<a href="http://cesengineering.ae"><img src="img/contact/cesengineering-ae.png"></a>
-					<a href="http://ecoopera.ae"><img src="img/contact/ecoopera-ae.png"></a>
+					<img src="img/contact/contact-us-title.png">
+					<h3 style="color: #8cc63e;">DUBAI</h3>
+					<p>PO Box 7687, Dubai, UAE</p>
+					<p>Tel: +917.43.467.799</p>
+					<p>Fax: +917.43.467.755</p>
+					<p><a href="mailto:info@cesgroup.ae">EMAIL DUBAI</a></p>
+					<p><a href="http://cesgroup.ae">WWW.CESGROUP.AE</a></p>
+					<p><a href="http://cesengineering.ae">WWW.CESENGINEERING.AE</a></p>
+					<p><a href="http://ecoopera.ae">WWW.ECOOPERA.AE</a></p>
 				</div>
             </div>	
 			

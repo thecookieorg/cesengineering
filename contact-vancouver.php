@@ -13,18 +13,23 @@
 			<!-- Example row of columns -->
             <div class="row animated fadeInLeft">
 				<div class="span24 margin_main_container">
-					<img src="img/contact/canada-main-contact.png">
+					<img src="img/contact/vancouver-main-contact.png">
 					<a href="contact-vancouver.php"><img src="img/contact/vancouver-link-to-page.png"></a>
 					<a href="contact-calgary.php"><img src="img/contact/calgary-link-to-page.png"></a>
 					<a href="contact-toronto.php"><img src="img/contact/toronto-link-to-page.png"></a>
 					<a href="contact-dubai.php"><img src="img/contact/dubai-link-to-page.png"></a>
 				</div>
 				<div class="span3 margin_main_container">
-					<img src="img/contact/contact-canada-right-side.png">
-					<a href="mailto:info@cesgroup.ca"><img src="img/contact/email-vancouver.png"></a>
-					<a href="http://cesgroup.ca"><img src="img/contact/cesgroup-ca.png"></a>
-					<a href="http://cesengineering.ca"><img src="img/contact/ceseng-ca.png"></a>
-					<a href="http://ecoopera.ca"><img src="img/contact/ecoopera-ca.png"></a>
+					<img src="img/contact/contact-us-title.png">
+					<h3 style="color: #8cc63e;">VANCOUVER</h3>
+					<p>402 - 4601 Canada Way</p>
+					<p>Burnaby, BC, Canada, V5G 4X7</p>
+					<p>Tel: 604.221.8715</p>
+					<p>Fax: 604.221.8714</p>
+					<p><a href="mailto:info@cesgroup.ca">EMAIL VANCOUVER</a></p>
+					<p><a href="http://cesgroup.ca">WWW.CESGROUP.CA</a></p>
+					<p><a href="http://cesengineering.ca">WWW.CESENGINEERING.CA</a></p>
+					<p><a href="http://ecoopera.ca">WWW.ECOOPERA.CA</a></p>
 				</div>
             </div>	
 			

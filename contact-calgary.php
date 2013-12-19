@@ -20,11 +20,16 @@
 					<a href="contact-dubai.php"><img src="img/contact/dubai-link-to-page.png"></a>
 				</div>
 				<div class="span3 margin_main_container">
-					<img src="img/contact/calgary-right-side.png">
-					<a href="mailto:info@cesgroup.ca"><img src="img/contact/email-calgary.png"></a>
-					<a href="http://cesgroup.ca"><img src="img/contact/cesgroup-ca.png"></a>
-					<a href="http://cesengineering.ca"><img src="img/contact/ceseng-ca.png"></a>
-					<a href="http://ecoopera.ca"><img src="img/contact/ecoopera-ca.png"></a>
+					<img src="img/contact/contact-us-title.png">
+					<h3 style="color: #8cc63e;">CALGARY</h3>
+					<p>300 - 120 8th Avenue</p>
+					<p>SE Calgary, AB, Canada T2G 0K6</p>
+					<p>Tel: 403.767.1345</p>
+					<p>Fax: 403.767.1310</p>
+					<p><a href="mailto:keithday@cesgroup.ca">EMAIL CALGARY</a></p>
+					<p><a href="http://cesgroup.ca">WWW.CESGROUP.CA</a></p>
+					<p><a href="http://cesengineering.ca">WWW.CESENGINEERING.CA</a></p>
+					<p><a href="http://ecoopera.ca">WWW.ECOOPERA.CA</a></p>
 				</div>
             </div>	
 			
