@@ -18,20 +18,18 @@
 						<h1>Associates</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:rdonovan@cesgroup.ca" style="float: right;">rdonovan@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:rdonovan@cesgroup.ca" class="float_right">rdonovan@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 					
+					<img src="img/people/robin.png" class="picture_position" alt="Robin Donovan CES Engineering">
+						
+					<div class="employee_info"><strong>ROBIN DONOVAN</strong> :: ::</div>
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/robin.png" style="margin-top: -35px;" alt="Robin Donovan CES Engineering">
-					</div>
-					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>ROBIN DONOVAN</strong> :: ::</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
+					<p>
 						Robin Donovan is a graduate of Energy Systems Engineering Technologist program at St. Lawrence College in Kingston, Ontario. He has over three years experience as a Building Commissioning Agent who oversaw completion of the ATESS Refinishing Facility at CFB Trenton Prior to joining CES Group, Robin was involved in designing renewable energy systems at a leading energy design firm in Eastern Ontario. 
 					</p>
+					
                 </div>
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver">

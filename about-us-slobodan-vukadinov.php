@@ -18,26 +18,24 @@
 						<h1>Principals &amp; Management</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:svukadinov@cesgroup.ca" style="float: right;">svukadinov@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:svukadinov@cesgroup.ca" class="float_right">svukadinov@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 					
+					<img src="img/people/sloba.png" class="picture_position" alt="Slobodan Vukadinov CES Engineering">
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/sloba.png" style="margin-top: -35px;" alt="Slobodan Vukadinov CES Engineering">
-					</div>
+					<div class="employee_info"><strong>SLOBODAN VUKADINOV</strong> :: M.Sc. in E.E. :: VICE PRESIDENT</div>
 					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>SLOBODAN VUKADINOV</strong> :: M.Sc. in E.E. :: VICE PRESIDENT</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
-					Slobodan Vukadinov is the primary system and software architect of the company’s energy management software system and the leader of the company’s software operations. <br/> 
-					<br/>
-					Slobodan is a seasoned technologist with a proven track record implementing complex technology solutions. With extensive experience in defense, simulation, telecommunication, gaming and energy management, he brings a broad business perspective to technology solutions. <br/>
-					<br/>
-					Slobodan has a strong history of accomplishment in software design, architecture and development, focusing on custom development, technology infrastructure, project management, team building and leadership. He has extensive practical experience in the entire application development cycle from business requirements through application deployment with global delivery model.<br/>
-					<br/>
-					Before joining CES Group leadership team, Slobodan worked for companies like Raytheon Canada Limited, Thales-Raytheon Systems, Rocket Gaming Systems, Celsius Tech Systems, etc. As an independent entrepreneur he has provided technical advises and has helped develop software systems for clients such as Modus Enterprises, Team Meta Information Systems, and Spark Integration Technology. 
+					<p>
+						Slobodan Vukadinov is the primary system and software architect of the company’s energy management software system and the leader of the company’s software operations. <br/> 
+						<br/>
+						Slobodan is a seasoned technologist with a proven track record implementing complex technology solutions. With extensive experience in defense, simulation, telecommunication, gaming and energy management, he brings a broad business perspective to technology solutions. <br/>
+						<br/>
+						Slobodan has a strong history of accomplishment in software design, architecture and development, focusing on custom development, technology infrastructure, project management, team building and leadership. He has extensive practical experience in the entire application development cycle from business requirements through application deployment with global delivery model.<br/>
+						<br/>
+						Before joining CES Group leadership team, Slobodan worked for companies like Raytheon Canada Limited, Thales-Raytheon Systems, Rocket Gaming Systems, Celsius Tech Systems, etc. As an independent entrepreneur he has provided technical advises and has helped develop software systems for clients such as Modus Enterprises, Team Meta Information Systems, and Spark Integration Technology. 
 					</p>
+					
                 </div>
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver">

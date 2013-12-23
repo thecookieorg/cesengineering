@@ -18,25 +18,23 @@
 						<h1>Engineering Team</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:mmanojlovic@cesgroup.ca" style="float: right;">mmanojlovic@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="http://www.linkedin.com/pub/marko-manojlovi%C4%87/29/730/b1b" target="_blank" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:mmanojlovic@cesgroup.ca" class="float_right">mmanojlovic@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="http://www.linkedin.com/pub/marko-manojlovi%C4%87/29/730/b1b" target="_blank" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>				
 					
+					<img src="img/people/marko.png" class="picture_position" alt="Marko Manojlovic CES Engineering">
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/marko.png" style="margin-top: -35px;" alt="Marko Manojlovic CES Engineering">
-					</div>
-					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>MARKO MANOJLOVIC</strong> :: M.Sc. :: WEB DESIGNER</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
+					<div class="employee_info"><strong>MARKO MANOJLOVIC</strong> :: M.Sc. :: WEB DESIGNER</div>
+				
+					<p>
 						Marko brought over 7 years of Software Engineer experiences to CES Group. Marko's specialities include software development focusing on website and desktop application development.<br/>
-						<br/>
+						<br>
 						As a member of the Software Development team Marko is involved in development of the CES Group advanced energy management information system. The scope of Marko's responsibilities assume the EMIS product's life cycle, starting from the user interface design to the EMIS products' deployment and maintenance.<br/>
-						<br/>
+						<br>
 						Prior to joining CES Group, Marko was an entrepreneur, working for various regional and national corporate clients.
 					</p>
                 </div>
+				
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver">
 				</div>

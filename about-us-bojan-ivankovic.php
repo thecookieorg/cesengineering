@@ -18,21 +18,19 @@
 						<h1>Engineering Team</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:bivankovic@cesgroup.ca" style="float: right;">bivankovic@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:bivankovic@cesgroup.ca" class="float_right">bivankovic@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 					
+					<img src="img/people/boki.png" class="picture_position" alt="Bojan Ivankovic CES Engineering">
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/boki.png" style="margin-top: -35px;" alt="Bojan Ivankovic CES Engineering">
-					</div>
+					<div class="employee_info"><strong>BOJAN IVANKOVIC</strong> :: Mechanical Technologist :: SITE SERVICES COORDINATOR</div>
 					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>BOJAN IVANKOVIC</strong> :: Mechanical Technologist :: SITE SERVICES COORDINATOR</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
+					<p>
 					 
 					</p>
                 </div>
+				
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver Office">
 				</div>

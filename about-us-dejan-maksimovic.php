@@ -18,22 +18,21 @@
 						<h1>Associates</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:dmaksimovic@cesgroup.ca" style="float: right;">dmaksimovic@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:dmaksimovic@cesgroup.ca" class="float_right">dmaksimovic@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/maksa.png" style="margin-top: -35px;" alt="Dejan Maksimovic CES Engineering">
-					</div>
+					<img src="img/people/maksa.png" class="picture_position" alt="Dejan Maksimovic CES Engineering">
 					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>DEJAN MAKSIMOVIC</strong> :: M. Sc. Mech. Eng. :: ENERGY PROJECTS MANAGER</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
-					Dejan leads the energy modeling and analysis team. He is involved in a variety of energy audit, optimization and management opportunities and assignments including the development of the Energy Management Information System (EMIS).<br/>
-					<br/>
-					Dejan has 20 years of experience in full-cycle product and system design and analysis, prototyping, testing, certification, systems integration and installation. He developed various complex products, equipment and systems in the field of HVAC, combustion, military, oil industry, alternative energy and transportation. 
+					<div class="employee_info"><strong>DEJAN MAKSIMOVIC</strong> :: M. Sc. Mech. Eng. :: ENERGY PROJECTS MANAGER</div>
+					
+					<p>
+						Dejan leads the energy modeling and analysis team. He is involved in a variety of energy audit, optimization and management opportunities and assignments including the development of the Energy Management Information System (EMIS).<br/>
+						<br>
+						Dejan has 20 years of experience in full-cycle product and system design and analysis, prototyping, testing, certification, systems integration and installation. He developed various complex products, equipment and systems in the field of HVAC, combustion, military, oil industry, alternative energy and transportation. 
 					</p>
                 </div>
+				
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver Office">
 				</div>

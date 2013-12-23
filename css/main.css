@@ -4,7 +4,23 @@
    Author's custom styles
    ========================================================================== */
 
-
+.float_right{
+	float: right;
+}
+.text_decoration{
+	text-decoration: none;
+}
+.linkedin_link{
+	color: #3c9cd6;
+}
+.picture_position{
+	margin-top: -35px;
+}
+.employee_info{
+	border-top: 1px solid grey; 
+	border-bottom: 1px solid grey;
+	margin-top: 10px;
+}
 
 
 /* title background */

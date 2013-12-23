@@ -17,12 +17,8 @@
 					<div class="title_bkgd">
 						<h1>Engineering Team</h1>
 					</div>
-					<!--<div class="title_bkgd">
-						<h3>People <img src="img/services/green-line.png" class="green_line" /></h3>
-					</div>-->
-					<!--<img src="img/services/1.png" class="main_picture" />-->
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
+						<a href="#" class="float_right">Download vCard</a><br/>
 						<a href="mailto:kshami@cesgroup.ca" style="float: right;">kshami@cesgroup.ca</a><br/>
 						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
 					

@@ -14,25 +14,25 @@
             <div class="row animated fadeInLeft">
                 <?php include('includes/sidebar_nav_eng.php'); ?>
 				<div class="span6 margin_main_container">
+					
 					<div class="title_bkgd">
 						<h1>Associates</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:squan@cesgroup.ca" style="float: right;">squan@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:squan@cesgroup.ca" class="float_right">squan@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 					
+					<img src="img/people/steven.png" class="picture_position" alt="Steven Quan CES Engineering">
+							
+					<div class="employee_info"><strong>STEVEN QUAN</strong> :: BASc, E.I.T. :: ENGINEERING ASSISTANT</div>
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/steven.png" style="margin-top: -35px;" alt="Steven Quan CES Engineering">
-					</div>
-					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>STEVEN QUAN</strong> :: BASc, E.I.T. :: ENGINEERING ASSISTANT</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
-					Steven Quan is a recent graduate and engineering assistant with CES Engineering. He has completed his Bachelor of Applied Science in Mechanical Engineering studying the Mechatronics option at the University of British Columbia. 
+					<p>
+						Steven Quan is a recent graduate and engineering assistant with CES Engineering. He has completed his Bachelor of Applied Science in Mechanical Engineering studying the Mechatronics option at the University of British Columbia. 
 					</p>
+					
                 </div>
+				
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver">
 				</div>

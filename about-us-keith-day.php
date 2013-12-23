@@ -18,17 +18,18 @@
 						<h1>Principals &amp; Management</h1>
 					</div>
 						
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:keithday@cesgroup.ca" style="float: right;">keithday@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:keithday@cesgroup.ca" class="float_right">keithday@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 										
-					<div class="position: absolute; float: left;">
-						<img src="img/people/keith-day.png" style="margin-top: -35px;" alt="Keith Day CES Engineering">
-					</div>
+					<img src="img/people/keith-day.png" class="picture_position" alt="Keith Day CES Engineering">
 					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>KEITH DAY</strong> :: Bsc. Eng :: COMMISSIONING OPERATIONS MANAGER</div>
-					<p style="margin-top: 2px;"><span style="color: #88c140;"><strong>::</strong></span>Originally from the United Kingdom, Keith Day is an experienced Engineering & Commissioning Manager having had exposure to commissioning in UK, Middle East, South Korea, Hong Kong and Australia. Keith has in depth knowledge of the building systems in both new build and existing buildings and has worked on some of the most diverse and technically challenging buildings in the world with vast input in HVAC, fire protection, plumbing systems, building automation controls, electrical power distribution, lighting, fire alarm, communication and security. </p>
+					<div class="employee_info"><strong>KEITH DAY</strong> :: Bsc. Eng :: COMMISSIONING OPERATIONS MANAGER</div>
+					<p>
+						Originally from the United Kingdom, Keith Day is an experienced Engineering &amp; Commissioning Manager having had exposure to commissioning in UK, Middle East, South Korea, Hong Kong and Australia. Keith has in depth knowledge of the building systems in both new build and existing buildings and has worked on some of the most diverse and technically challenging buildings in the world with vast input in HVAC, fire protection, plumbing systems, building automation controls, electrical power distribution, lighting, fire alarm, communication and security. 
+					</p>
                 </div>
+				
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver">
 				</div>

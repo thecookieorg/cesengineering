@@ -18,25 +18,23 @@
 						<h1>Associates</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:bcrawford@cesgroup.ca" style="float: right;">bcrawford@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br/>
+					<a href="mailto:bcrawford@cesgroup.ca" class="float_right">bcrawford@cesgroup.ca</a><br/>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 					
+					<img src="img/people/brett.png" class="picture_position" alt="Brett Crawford CES Engineering">
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/brett.png" style="margin-top: -35px;"alt="Brett Crawford CES Engineering">
-					</div>
+					<div class="employee_info"><strong>BRETT CRAWFORD</strong> :: P.Eng, LEED AP BD+C :: ASSOCIATE</div>
 					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>BRETT CRAWFORD</strong> :: P.Eng, LEED AP BD+C :: ASSOCIATE</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
-					Brett Crawford is an intermediate project engineer with specialty in managing and administrating total building systems commissioning projects. As a LEED Accredited Professional with Building Design + Construction specialization, Brett has an in-depth knowledge of total building and LEED commissioning requirements.<br/> 
-					<br/>
-					Since joining CES in 2008, Brett's commissioning project experience includes a variety of Commercial, Institutional, Educational and Residential buildings. The scope of services on these projects typically includes design reviews and commissioning specifications generation during project design stage, management and implementation of construction phase commissioning activities, O&M manuals reviews and coordination of the training for the building operators and users group.
-					In addition to various LEED commissioning services, Brett has acted as the commissioning agent for the UBC Life Sciences Centre (400,000 square feet medical teaching and research facility) and the YVR domestic terminal expansion project. Brett also serves as part of the Measurement and Verification services team, managing several commercial and institutional projects.
-					Prior to joining CES Engineering, Brett was a mechanical designer with Stantec Consulting in Vancouver, BC. In his spare time, Brett can usually be found snowboarding, kiteboarding, or any other adventure sports activities. 
+					<p>
+						Brett Crawford is an intermediate project engineer with specialty in managing and administrating total building systems commissioning projects. As a LEED Accredited Professional with Building Design + Construction specialization, Brett has an in-depth knowledge of total building and LEED commissioning requirements.<br/> 
+						<br>
+						Since joining CES in 2008, Brett's commissioning project experience includes a variety of Commercial, Institutional, Educational and Residential buildings. The scope of services on these projects typically includes design reviews and commissioning specifications generation during project design stage, management and implementation of construction phase commissioning activities, O&M manuals reviews and coordination of the training for the building operators and users group.
+						In addition to various LEED commissioning services, Brett has acted as the commissioning agent for the UBC Life Sciences Centre (400,000 square feet medical teaching and research facility) and the YVR domestic terminal expansion project. Brett also serves as part of the Measurement and Verification services team, managing several commercial and institutional projects.
+						Prior to joining CES Engineering, Brett was a mechanical designer with Stantec Consulting in Vancouver, BC. In his spare time, Brett can usually be found snowboarding, kiteboarding, or any other adventure sports activities. 
 					</p>
                 </div>
+				
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-vanc.png" alt="CES Engineering Vancouver Office">
 				</div>

@@ -18,21 +18,19 @@
 						<h1>Associates</h1>
 					</div>
 					
-						<a href="#" style="float: right;">Download vCard</a><br/>
-						<a href="mailto:ajovanovic@cesgroup.ca" style="float: right;">ajovanovic@cesgroup.ca</a><br/>
-						<span style="float: right;">Connect: <a href="#" style="text-decoration: none;"><span style="color: #3c9cd6;">LinkedIn</span></a></span>
+					<a href="#" class="float_right">Download vCard</a><br>
+					<a href="mailto:ajovanovic@cesgroup.ca" class="float_right">ajovanovic@cesgroup.ca</a><br>
+					<span class="float_right">Connect: <a href="#" class="text_decoration"><span class="linkedin_link">LinkedIn</span></a></span>
 					
+					<img src="img/people/alex-jovanovic.png" class="picture_position" alt="Alex Jovanovic CES Engineering">
 					
-					<div class="position: absolute; float: left;">
-						<img src="img/people/alex-jovanovic.png" style="margin-top: -35px;" alt="Alex Jovanovic CES Engineering">
-					</div>
+					<div class="employee_info"><strong>ALEX JOVANOVIC</strong> :: M. Eng, EIT :: COMMISSIONING ENGINEER</div>
 					
-					<div style="border-top: 1px solid grey; border-bottom: 1px solid grey;margin-top: 10px;"><strong>ALEX JOVANOVIC</strong> :: M. Eng, EIT :: COMMISSIONING ENGINEER</div>
-					<div style="border-bottom: 1px solid grey; float: right;"></div>
-					<p style="margin-top: 2px;">
-					Alex Jovanovic is a senior project engineer with expertize in energy-efficient HVAC system design, plumbing and fire protection systems for industrial, commercial and residential projects as well as refrigeration systems for large retail objects. He has successfully completed over 50 small, medium and large project. Alex posses excellent team and interpersonal skills. He is proficient in AutoCad, Carrier HAP, WhiteRose and has knowledge of Autodesk Revit. 
+					<p>
+						Alex Jovanovic is a senior project engineer with expertize in energy-efficient HVAC system design, plumbing and fire protection systems for industrial, commercial and residential projects as well as refrigeration systems for large retail objects. He has successfully completed over 50 small, medium and large project. Alex posses excellent team and interpersonal skills. He is proficient in AutoCad, Carrier HAP, WhiteRose and has knowledge of Autodesk Revit. 
 					</p>
                 </div>
+				
 				<div class="span16 margin_main_container">
 					<img src="img/people/side-toronto.png" alt="CES Engineering Toronto Office">
 				</div>
