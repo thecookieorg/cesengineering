@@ -21,6 +21,24 @@ What has to be done:
 
 
 
+===========================
+V0.0.2   // 23.12.2013. //
+===========================
+What is done:
+--------------
+- Created Contact Us pages for cities;
+- Added Google Analytics Tracking Code on each page;
+- Added .contact_page class for H3;
+
+
+What has to be done:
+---------------------
+- Bugs on website on IE10 and < versions;
+- Bugs from Kyles list;
+
+
+
+
 
 
 ===========================
