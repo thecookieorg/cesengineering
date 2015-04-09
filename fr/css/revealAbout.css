@@ -1,8 +1,8 @@
 .containerManagement {
-bottom: 0px ;
-display: none ;
-position: fixed ;
-width: 100%;
+	bottom: 0px ;
+	display: none ;
+	position: fixed ;
+	width: 100%;
 }
 
 .containerManagement{
@@ -10,10 +10,8 @@ width: 100%;
 }	
  
 #innerManagement {
-background-color: white ;
-opacity: .9;
-/*-webkit-filter: blur(4px);*/
-/*border: 1px solid #666666 ;*/
-border-bottom-width: 0px ;
-padding: 20px 20px 100px 20px ;
+	background-color: white ;
+	opacity: .9;
+	border-bottom-width: 0px ;
+	padding: 20px 20px 100px 20px ;
 }

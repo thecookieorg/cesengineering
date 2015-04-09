@@ -58,8 +58,6 @@ span.title, #cssmenu > ul > li.associates > a > span.title, #cssmenu > ul > li.e
 #cssmenu > ul > li.active > a {
   background: transparent;
   color: #8ec63d;
-  /*text-shadow: 0 1px 1px #000;
-  border: 1px solid #add477;*/
 }
 #cssmenu > ul > li.active > a span {
   border: 1px solid #c0de96;

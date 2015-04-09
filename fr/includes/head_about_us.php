@@ -48,25 +48,4 @@
 				});
 			});
 		</script>
-		
-	
-		<!--<script>
-		//$("a[rel='boban']") = boban;
-		//$("a[rel='risto']") = risto;
-		$().ready(function() {
-		if ($('a[name*="about-us-boban-ratkovich.php"]')) {
-			//$(this).parent().find('#css > ul > li > a').css('border-bottom','none');
-			//$(this).css('border-bottom','#8cc63f');
-			$("#cssmenu > ul > li > a").css("border-bottom", "#8cc63f");
-		} else if ($('a[name*="about-us-risto-basic.php"]')) {
-			//$(this).parent().find('#css > ul > li > a').css('border-bottom','none');
-			//$(this).css('border-bottom','#8cc63f');
-			$("#cssmenu a").css("border-bottom", "#8cc63f");
-		} else {
-			//$(this).parent().find('#css > ul > li > a').css('border-bottom','none');
-			//$(this).css('border-bottom','none');
-			$("#cssmenu a").css("border-bottom", "none");
-		}
-		});
-		</script>-->
     </head>
