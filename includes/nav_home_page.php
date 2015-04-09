@@ -52,6 +52,11 @@
 							<li><a href="./eco-opera.php">ecoopera</a></li>
 							<li><a href="./contact.php">Contact</a></li>
                         </ul>
+                        <ul class="nav" style="float: right;">
+                            <li style="font-size: 11px; color: grey;"><a style="padding: 10px 3px;" href="#">ENGLISH</a></li>
+                            <li style="font-size: 11px; color: grey;padding: 10px 3px;">/</li>
+                            <li style="font-size: 11px; color: grey;"><a style="padding: 10px 3px;" href="./fr/index.php">FRENCH</a></li>
+                        </ul>
 						</div><!--/.nav-collapse -->	
 					</div>
             </div>
