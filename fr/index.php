@@ -55,7 +55,7 @@
 					<div id="innerBuilding">
 						<a href="#" class="revealBuilding"><img src="img/building-cx-inside.png" alt="Building Commissioning Sliding Up Picture"></a>
 						<br>
-						<p>We are the industry experts for building systems commissioning</p>
+						<p>ÙùÛûÜüŸÿ€€ÀàÂâÆæÇçÉéÈèÊêËëÏïÎîÔôŒœ We are the industry experts for building systems commissioning</p>
 						<br>
 						<a href="./services-total-building-commissioning.php" rel="has-dotts">Total Building Cx</a>
 						<br>
